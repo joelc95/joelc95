@@ -1,5 +1,5 @@
 - 👋 HELLO!
-- Junior Software Dev @ WeAreCodeNation
+- Junior Software Dev @ CodeNation
 - 😌 Learning full-stack dev
 
 <!---
