@@ -1,5 +1,6 @@
 - 👋 HELLO!
-- Junior Software Dev @ CodeNation
+- Junior Web Dev @ CodeNation
+- Oracle Analyst Dev @ Riverside
 - 😌 Learning full-stack dev
 
 <!---
