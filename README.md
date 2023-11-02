@@ -1,7 +1,5 @@
-- 👋 HELLO!
-- Junior Web Dev @ CodeNation
-- Oracle Analyst Dev @ Riverside
-- 😌 Learning full-stack dev
+# 👋 HELLO!
+I'm a full stack developer experienced in React, Express, and Tailwind
 
 <!---
 joelc95/joelc95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
